@@ -1,6 +1,3 @@
----
-layout: base
----
 # Get to Know Central
 
 ## The History of Central

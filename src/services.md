@@ -1,6 +1,3 @@
----
-layout: base
----
 # Worship with Us
 
 ## Service Times

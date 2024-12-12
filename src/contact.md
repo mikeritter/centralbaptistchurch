@@ -1,6 +1,3 @@
----
-layout: base
----
 # Contact
 
 - **call**: 479-236-1970

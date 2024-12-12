@@ -1,6 +1,3 @@
----
-layout: base
----
 # Preaching the Good News
 
 Central Baptist Church is a Christ-centered, Bible-based fellowship. We want to exemplify the grace of God in our everyday lives through obedience to the will of God.
